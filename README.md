@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi, my name is Yitzi, and I am the CTO of IMedis.
